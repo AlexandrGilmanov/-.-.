@@ -10,7 +10,7 @@ var Mines = (function(){
   var 
     colors = {
       closed : '#e1e1e1',
-      empty : '#cccccc',
+      empty : '#afbbbf',
       flag : '#005828',
       mine : '#ff2a1a',
       question : '#08afed',
